@@ -1,5 +1,5 @@
-# simple-discord-feedback
-Simple discord bag-report for your bot on mobile and easy-to-learn PL - BDScript!
+# simple-discord-bug-report
+Simple discord bug-report for your bot on mobile and easy-to-learn PL - BDScript!
 
 # Hello! About me: 
 I'm a Cofchynez, BDScript* coder.
