@@ -1,0 +1,10 @@
+$nomention
+$title[New Feedback]
+$description[**Ping:** <@$authorID>
+**Name + Tag:** `$nickname#$discriminator[$authorID]` 
+**ID:** `$authorID`
+
+**Message:** $message]
+$color[13c943]
+$useChannel[$getUserVar[feedch]]
+$onlyIf[$noMentionMessage!=;]
