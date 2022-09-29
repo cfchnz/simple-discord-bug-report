@@ -1,0 +1,5 @@
+$nomention
+Sending...
+$editIn[15s;Sended!]
+$onlyIf[$message!=;Type a text!]
+$onlyForIDs[$getUserVar[id];]
